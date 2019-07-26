@@ -1,0 +1,10 @@
+div.login {
+  border: 1px solid #dadce0; 
+  border-radius: 8px; padding: 48px 40px 36px;
+  display: block;
+  box-sizing: border-box;
+  margin: 0 auto;
+  height: auto;
+  min-height: 500px;
+  width: 450px;
+}
